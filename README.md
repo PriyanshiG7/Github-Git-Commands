@@ -12,6 +12,7 @@ A list of my commonly used Git commands
 
 #Basic Snapshotting
 |__Command__	                                                                                       |__Description__|
+|---|---|
 |git status	                                                                                   | Check status|
 |git add [file-name.txt]                                                                       | Add a file to the staging area|
 |git add -A	                                                                                   | Add all new and changed files to the staging area|
@@ -21,6 +22,7 @@ A list of my commonly used Git commands
 
 #Branching & Merging
 |__Command__	                                                                                     | __Description__|
+|---|---|
 |git branch	                                                                                       | List branches (the asterisk denotes the current branch)|
 |git branch -a	                                                                                   | List all branches (local and remote)|
 |git branch [branch name]	                                                                         | Create a new branch|
@@ -40,6 +42,7 @@ A list of my commonly used Git commands
 
 #Sharing & Updating Projects
 |__Command__	                                                                                |     __Description__|
+|---|---|
 |git push origin [branch name]                                                                | Push a branch to your remote repository|
 |git push -u origin [branch name]                                                             | Push changes to remote repository (and remember the branch)|
 |git push                                                                                     | Push changes to remote repository (remembered branch)|
@@ -52,6 +55,7 @@ A list of my commonly used Git commands
 
 #Inspection & Comparison
 |__Command__	                                                                                   |    __Description__|
+|---|---|
 |git log	                                                                                     | View changes|
 |git log --summary                                                                             |	View changes (detailed)|
 |git log --oneline                                                                             |	View changes (briefly)|
