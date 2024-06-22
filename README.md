@@ -55,3 +55,14 @@ git log	                                                                        
 git log --summary                                                                             |	View changes (detailed)
 git log --oneline                                                                             |	View changes (briefly)
 git diff [source branch] [target branch]                                                      |	Preview changes before merging
+
+
+
+| Command | Description |
+|---|---|
+| git init | Create a Git repository |
+| git clone <url> | Clone an existing repository |
+| git branch | List branches |
+| git checkout <branch name> | Switch branches |
+| ... (add more commands and descriptions) | ... |
+
