@@ -62,5 +62,21 @@ A list of my commonly used Git commands
 |git diff [source branch] [target branch]                                                      |	Preview changes before merging|
 
 
+#Fixing Mistake
+|__Command__	                                                                                   |    __Description__|
+|---|---|
+|git commit --amend	                                                                           | You forgot to add files or made a minor error in the last commit message.|
+|git revert <commit>                                                                            |	Merging branches with conflicting changes.|
+|git commit (new commit) + git rebase -i HEAD~<n>                                              |	You want to fix a typo in a commit message that's not the last one.pen_spark.|
+|git reset <filename>                                                                           |for managing the staging area and file revisions/To unstage a specific file.  |
+|git reset                                                                                      | to unstage all file|  
+|git reset HEAD~1                                          |without flags) is a mixed reset that moves the HEAD back one commit, discarding staged changes but keeping uncommitted changes.|
+|git reset --mixed <commit>                                                                     |To keep working directory changes based on an older commit|
+|git reset --hard <commit>                                             |You want to discard all changes made after a specific commit (including staged and unstaged changes).|
+
+
+
+
+
 
 
