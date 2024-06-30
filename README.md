@@ -4,53 +4,53 @@
 
 
 
-### Heading 
+### 👉🏾Heading 
 # H1
 ## H2
 ### H3
 
 
 
-### Bold
+###👉🏾 Bold
 **bold text**
 
 
 
-### Italic
+### 👉🏾 Italic
 *italicized text*
 
 
 
-### Blockquote
+### 👉🏾Blockquote
 > blockquote
 
 
 
-### Ordered List
+### 👉🏾Ordered List
 1. First item
 2. Second item
 3. Third item
 
 
-### Unordered List
+###👉🏾 Unordered List
 - First item
 - Second item
 - Third item
 
 
-### Code 
+### 👉🏾Code 
 `code`
 
-### Horizontal Rule
+### 👉🏾Horizontal Rule
 --- 
 
 
-### Link
+### 👉🏾 Link
 
 [Markdown Guide](https://www.markdownguide.org)
 
 
-### Image
+###👉🏾 Image
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
@@ -77,7 +77,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 }
 ```
 
-### Footnote
+###👉🏾 Footnote
 
 Here's a sentence with a footnote. [^1]
 
@@ -85,54 +85,54 @@ Here's a sentence with a footnote. [^1]
 
 
 
-### Heading ID
+### 👉🏾Heading ID
 
 ### My Great Heading {#custom-id}
 
 
-### Definition List
+### 👉🏾Definition List
 
 term
 : definition
 
 
-### Strikethrough
+### 👉🏾Strikethrough
 
 ~~The world is flat.~~
 
 
-### Task List
+### 👉🏾Task List
 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
 
-### Emoji
+### 👉🏾Emoji
 
 That is so funny! :joy:
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
 
-### Highlight
+###👉🏾 Highlight
 
 I need to highlight these ==very important words==.
 
 
-### Subscript
+### 👉🏾Subscript
 
 H~2~O
 
 
-### Superscript
+### 👉🏾Superscript
 
 X^2^
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Git Commands
+###Git Commands
 
 A list of my commonly used Git commands
 
