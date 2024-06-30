@@ -1,4 +1,4 @@
-#Comman Github Command 
+# Comman Github Command 
 
 ## Basic Syntax
 
@@ -22,7 +22,7 @@
 
 
 ### 👉🏾Blockquote
-> blockquote
+>blockquote
 
 
 
