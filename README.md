@@ -2,7 +2,7 @@
 
 ## Basic Syntax
 
-|||
+| Command Name| using way |
 |---|---|
 
 |### Heading| # H1
